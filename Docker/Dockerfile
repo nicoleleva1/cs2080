@@ -1,6 +1,6 @@
-#Nicole Vance
+#Copyright (c) Nicole Vance 04-08-2025
 #CS 2080 Assignment 7
-#04-08-2025
+#
 
 FROM ubuntu
 RUN apt update -y && apt install nginx vim -y
