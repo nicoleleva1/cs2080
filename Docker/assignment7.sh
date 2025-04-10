@@ -1,7 +1,8 @@
 #! /usr/bin/env bash
-#Nicole Vance
+#
+#Copyright (c) Nicole Vance 04-08-2025
 #CS 2080 Docker Assignment 
-#04-08-2025
+#
 #
 #
 #Start nginx service
